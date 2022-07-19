@@ -196,7 +196,7 @@ Module['FS_createPath']("/", "bin", true, true);
     }
 
     }
-    loadPackage({"files": [{"filename": "/bin/.DS_Store", "start": 0, "end": 6148}, {"filename": "/bin/mintia.img", "start": 6148, "end": 10491908}, {"filename": "/bin/boot.bin", "start": 10491908, "end": 10561876}, {"filename": "/bin/nvram", "start": 10561876, "end": 10627412}, {"filename": "/bin/aisix.img", "start": 10627412, "end": 14821716}], "remote_package_size": 14821716, "package_uuid": "f86b1157-4993-4f53-a349-c29aafd09c22"});
+    loadPackage({"files": [{"filename": "/bin/.DS_Store", "start": 0, "end": 6148}, {"filename": "/bin/mintia.img", "start": 6148, "end": 10491908}, {"filename": "/bin/boot.bin", "start": 10491908, "end": 10561876}, {"filename": "/bin/aisix.img", "start": 10561876, "end": 14756180}], "remote_package_size": 14756180, "package_uuid": "5d075d6a-e09b-4d95-9fd5-23fa0d6fd983"});
 
   })();
 
