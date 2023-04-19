@@ -196,7 +196,7 @@ Module['FS_createPath']("/", "bin", true, true);
     }
 
     }
-    loadPackage({"files": [{"filename": "/bin/aisix.img", "start": 0, "end": 4194304}, {"filename": "/bin/boot.bin", "start": 4194304, "end": 4262132}, {"filename": "/bin/mintia.img", "start": 4262132, "end": 14747892}], "remote_package_size": 14747892});
+    loadPackage({"files": [{"filename": "/bin/aisix.img", "start": 0, "end": 4194304}, {"filename": "/bin/boot.bin", "start": 4194304, "end": 4262128}, {"filename": "/bin/mintia.img", "start": 4262128, "end": 14747888}], "remote_package_size": 14747888});
 
   })();
 
